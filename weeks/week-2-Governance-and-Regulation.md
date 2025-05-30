@@ -1,0 +1,3 @@
+- Reviewed **Cybersecurity Governance** and **Risk Management** principles
+- Learned about **cybersecurity frameworks** (NIST, ISO 27001)
+- Explored the roles of **compliance, policies, and regulations** in security
