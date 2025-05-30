@@ -31,5 +31,5 @@ This repository is organized by weeks and topics. Here’s a quick overview:
 You can explore my learning journey by navigating the folders for each week or course. I’ve documented key takeaways, important concepts, and progress in each file. Feel free to follow along or use the notes as a resource for your own learning.
 
 ## Contact:
-- LinkedIn: [https://www.linkedin.com/in/camilo-morales-a-06ab60b8/]
-- TryHackMe: [https://tryhackme.com/p/Jc94]
+- LinkedIn: https://www.linkedin.com/in/camilo-morales-a-06ab60b8/
+- TryHackMe: https://tryhackme.com/p/Jc94
