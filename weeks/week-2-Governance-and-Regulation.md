@@ -4,4 +4,5 @@
 - **General Data Protection Regulation (GDPR)** - Implemented by the EU in May 2018 ti protect personal data.
 - **Payment Card Industry Data Security Standard (PCI DSS)** - Mantains secure card transactions and protecting against data theft and fraud.
 - **Information Security Management** - protects information assets from unauthorised access, use, disclosure, interruption, alteration, and destruction.
+- It involves risk assessment and identification, security controls and procedures development, incident response planning, and security awareness training.
 - **Compliance** refers to observing information security-related legal, regulatory, contractual, and industry-specific standards
