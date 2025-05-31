@@ -1,3 +1,7 @@
 - Reviewed **Cybersecurity Governance** and **Risk Management** principles
 - Learned about **cybersecurity frameworks** (NIST, ISO 27001)
 - Explored the roles of **compliance, policies, and regulations** in security
+- *General Data Protection Regulation (GDPR)* - Implemented by the EU in May 2018 ti protect personal data.
+- *Payment Card Industry Data Security Standard (PCI DSS)* - Mantains secure card transactions and protecting against data theft and fraud.
+- *Information Security Management* - protects information assets from unauthorised access, use, disclosure, interruption, alteration, and destruction.
+- *Compliance* refers to observing information security-related legal, regulatory, contractual, and industry-specific standards
