@@ -1,8 +1,11 @@
 - Reviewed **Cybersecurity Governance** and **Risk Management** principles
 - **Governance Risk and Compliance (GRC)**
 - **Governance Component:** Involves guiding an organisation by setting its direction through information security strategy,  which includes policies, standards, baselines, frameworks, etc., along with establishing appropriate monitoring methods to measure its performance and assess the outcomes.
+  
 **Risk Management Component:** Involves identifying, assessing, and prioritising risks to the organisation and implementing controls and mitigation strategies to manage those risks effectively. This includes monitoring and reporting on risks and continuously evaluating and refining the risk management program to ensure its ongoing effectiveness.
+
 **Compliance Component:** Ensuring that the organisation meets its legal, regulatory, and industry obligations and that its activities align with its policies and procedures. This includes developing and implementing compliance programs, conducting regular audits and assessments, and reporting on compliance issues to stakeholders.
+
 - Learned about **cybersecurity frameworks** (NIST, ISO 27001)
 - Explored the roles of **compliance, policies, and regulations** in security
 - **General Data Protection Regulation (GDPR)** - Implemented by the EU in May 2018 ti protect personal data.
