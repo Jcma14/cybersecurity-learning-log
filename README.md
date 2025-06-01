@@ -18,7 +18,7 @@ Feel free to explore, learn, and follow my progress as I work toward becoming a 
 ## Learning Progress:
 - **Coursera - Introduction to Cybersecurity Fundamentals**: Completed
 - **Cyber Wardens Foundations**: Completed
-- **TryHackMe Cybersecurity Basics Path**: Ongoing (Week 1 - Security Principles completed)
+- **TryHackMe Cybersecurity Basics Path**: Ongoing
 
 ## Folder Structure:
 This repository is organized by weeks and topics. Here’s a quick overview:
