@@ -1,5 +1,5 @@
 Camilo Morales  
-📍 Remote - Australia | 🌐 GitHub: [github.com/jcma14](https://github.com/Jcma14) | 📧 camiloaustralia.14@gmail.com | ☎️ +61420421494
+📍 Remote - Australia | 🌐 GitHub: [github.com/jcma14](https://github.com/Jcma14) | 📧 camiloaustralia.14@gmail.com |
 
 ---
 
@@ -28,7 +28,7 @@ Aspiring Cybersecurity Professional transitioning from foundational training int
 ✅ Covered security hygiene, social engineering threats, and proactive practices in digital environments
 
 **Self-Guided Learning (Ongoing)**  
-- Actively studying through podcasts (e.g., The I.T Career Podcast,Talking Cyber Security), YouTube (e.g., Daniel Lowrie, John Hammond)  
+- Actively studying through podcasts 🎧  (e.g., The I.T Career Podcast,Talking Cyber Security), YouTube 📺 (e.g., Daniel Lowrie, John Hammond)  
 - Documenting my progress via GitHub Learning Log
 
 **TryHackMe – Cyber Security Basics Path** *(Free Roadmap)*  
@@ -36,7 +36,7 @@ Aspiring Cybersecurity Professional transitioning from foundational training int
 - ✅ Security Principles: CIA Triad, Least Privilege, Defense Layers  
 - ✅ Governance & Regulation: Frameworks like NIST, policies, and compliance
 - ✅ Currently exploring Cyber Kill Chain room
-
+  
 ---
 
 # 📁 Projects & Labs
@@ -49,7 +49,7 @@ Aspiring Cybersecurity Professional transitioning from foundational training int
 ---
 
 # 🛠 Technical Tools
-- **Beginner-Level Tools**: Wireshark, Nmap, Burp Suite (theory + exploration)  
+- **Beginner-Level Tools**: Wireshark, (theory + exploration)  
 - **OS Exposure**: Linux (Ubuntu) & Windows (Virtual Machine - THM, CyberDefenders)  
 - **Documentation**: GitHub, Notion 
 
@@ -57,7 +57,7 @@ Aspiring Cybersecurity Professional transitioning from foundational training int
 
 # 🤝 Soft Skills
 - Self-motivated and organized learner
-- Strong desire for learning
+- Strong desire for continuing learning
 - Attention to detail
 - Strong written communication for technical documentation  
 - Able to collaborate and follow instructions effectively 
