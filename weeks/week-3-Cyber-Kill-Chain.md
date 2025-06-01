@@ -1,3 +1,4 @@
+-**Cyber Kill Chain**
 - It consists of target identification, decision and order to attack the target, and finally the target destruction.
 - It can be used to assess your network and system security by identifying missing security controls and closing certain security gaps based on a company's infrastructure.
 - Advanced Persistent Threats (APTs) 
