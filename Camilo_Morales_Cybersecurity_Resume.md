@@ -1,5 +1,5 @@
 Camilo Morales  
-📍 Remote - Australia | 🌐 GitHub: [github.com/jcma14](https://github.com/Jcma14) | 📧 xxxxxxx@gmail.com | ☎️ +xxxxxxxxxx
+📍 Remote - Australia | 🌐 GitHub: [github.com/jcma14](https://github.com/Jcma14) | 📧 camiloaustralia.14@gmail.com | ☎️ +61420421494
 
 ---
 
@@ -65,6 +65,6 @@ Aspiring Cybersecurity Professional transitioning from foundational training int
 ---
 
 # 📩 Contact
-📧 xxxxxxxx@gmail.com  
+📧 camiloaustralia.14@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/camilo-morales-a](www.linkedin.com/in/camilo-morales-a-06ab60b8)  
 🌐 GitHub: [github.com/jcma14](https://github.com/Jcma14)
