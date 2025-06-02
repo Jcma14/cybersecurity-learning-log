@@ -7,7 +7,7 @@ IDS   - Intrusion Detection System
 IPS   - Intrusion Prevention System  
 EDR   - Endpoint Detection and Response  
 XDR   - Extended Detection and Response  
-MDR   - Managed Detection and Response  
+MDR   - Managed Detection and Response
 APT   - Advanced Persistent Threat  
 IOC   - Indicator of Compromise  
 IOA   - Indicator of Attack  
@@ -20,10 +20,10 @@ DDoS  - Distributed Denial of Service
 VPN   - Virtual Private Network  
 PKI   - Public Key Infrastructure  
 TLS   - Transport Layer Security  
-SSL   - Secure Sockets Layer (deprecated)
-GRC   - Governance Risk Management and Compliance
-VBA   - Visual Basic for Applications
-C2    - Comand and Control 
+SSL   - Secure Sockets Layer (deprecated)  
+GRC   - Governance Risk Management and Compliance  
+VBA   - Visual Basic for Applications  
+C2    - Comand and Control  
 
 ## 🖥️ Network & System
 IP    - Internet Protocol  
