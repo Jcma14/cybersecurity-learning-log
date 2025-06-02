@@ -20,3 +20,26 @@
 - theHarvester: Gathers emails, subdomains, IPs, URLs, and more.
 - Hunter.io: Identifies contact details linked to domains.
 - OSINT Framework: A categorized collection of OSINT tools.
+
+-**Weaponization Phase**
+
+Summary:
+- After Reconnaissance, the attacker ("Megatron") prepares a malicious payload.
+- This phase combines malware + exploit into a deliverable package (no direct victim interaction yet).
+
+Key Concepts:
+- **Malware**: Malicious software (e.g., viruses, worms).
+- **Exploit**: Code that takes advantage of system vulnerabilities.
+- **Payload**: The harmful code executed on the victim’s system.
+- **Weaponizer**: Tool/method to combine malware and exploit.
+- **Backdoor**: Secret way to maintain access to the system.
+- **C2 (Command & Control)**: Used for remote access and control after infection.
+
+Common Methods:
+- Infected Office docs with **macros/VBA scripts**.
+- Dropping **malware-infected USB drives** in public.
+- Buying malware from the **Dark Web**.
+- Creating custom malware to **evade detection** (used by APTs).
+
+Key Takeaway:
+Weaponization is a behind-the-scenes phase where the attacker builds or obtains the tools needed to execute the attack.
