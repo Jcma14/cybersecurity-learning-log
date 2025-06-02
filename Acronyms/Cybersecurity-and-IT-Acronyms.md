@@ -23,7 +23,7 @@ TLS   - Transport Layer Security
 SSL   - Secure Sockets Layer (deprecated)
 GRC   - Governance Risk Management and Compliance
 VBA   - Visual Basic for Applications
-C2    - Comand and Control
+C2    - Comand and Control 
 
 ## 🖥️ Network & System
 IP    - Internet Protocol  
