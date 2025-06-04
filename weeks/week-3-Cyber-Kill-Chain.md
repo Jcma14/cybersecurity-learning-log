@@ -43,3 +43,19 @@ Common Methods:
 
 Key Takeaway:
 Weaponization is a behind-the-scenes phase where the attacker builds or obtains the tools needed to execute the attack.
+
+- **Summary**
+
+**Reconnaissance** – The attacker gathers information about the target to find potential vulnerabilities.
+
+**Weaponization** – A malicious payload is created, often combining malware with an exploit.
+
+**Delivery** – The attacker sends the weaponized payload to the target (e.g., via email or a website).
+
+**Exploitation** – The payload exploits a vulnerability to gain access to the system.
+
+**Installation** – Malware is installed on the target system to maintain access.
+
+**Command & Control (C2)** – The attacker establishes remote control over the compromised system.
+
+**Actions on Objectives** – The attacker performs their goal, such as data theft, destruction, or espionage.
