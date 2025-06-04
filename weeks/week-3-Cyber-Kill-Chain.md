@@ -55,6 +55,10 @@ Attackers often abuse macros to deliver malware.
 A malicious Word or Excel file may ask you to "Enable Macros" — doing so could run harmful code on your system.
 This method is commonly used in phishing attacks to exploit users.
 
+- A **Zero-day exploit** is a cyberattack that takes advantage of a previously unknown vulnerability in software or hardware — one that the vendor or developer hasn't had time to fix yet.
+- "Zero-day" means the developer has had zero days to fix the flaw because they don’t know it exists.
+- Attackers can exploit it before any patch or protection is available.
+
 Key Takeaway:
 Weaponization is a behind-the-scenes phase where the attacker builds or obtains the tools needed to execute the attack.
 
