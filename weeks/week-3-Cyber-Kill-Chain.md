@@ -41,6 +41,20 @@ Common Methods:
 - Buying malware from the **Dark Web**.
 - Creating custom malware to **evade detection** (used by APTs).
 
+-  **What are Macros?**
+Macros are small programs that automate tasks in Microsoft Office apps like Excel and Word.
+They are useful for repeating steps like formatting, calculations, or document generation.
+
+- **What is VBA?**
+VBA stands for Visual Basic for Applications.
+It's the programming language used to write macros in Office documents.
+Example use: A button in Excel that runs a script to organize your data.
+
+- **Why are Macros/VBA Important in Cybersecurity?**
+Attackers often abuse macros to deliver malware.
+A malicious Word or Excel file may ask you to "Enable Macros" — doing so could run harmful code on your system.
+This method is commonly used in phishing attacks to exploit users.
+
 Key Takeaway:
 Weaponization is a behind-the-scenes phase where the attacker builds or obtains the tools needed to execute the attack.
 
