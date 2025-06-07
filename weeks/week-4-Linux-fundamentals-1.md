@@ -4,7 +4,7 @@ Linux is just another operating system and one of the most popular in the world 
 
 Linux is considerably much more lightweight and you'd be surprised to know that there's a good chance you've used Linux in some form or another every day! Linux powers things such as:
 
-Websites that you visit
+- Websites that you visit
 - Car entertainment/control panels
 - Point of Sale (PoS) systems such as checkout tills and registers in shops
 - Critical infrastructures such as traffic light controllers or industrial sensors
