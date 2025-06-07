@@ -1,4 +1,4 @@
-Linux Fundamentals Part 1
+**Linux Fundamentals Part 1**
 
 Linux is just another operating system and one of the most popular in the world powering smart cars, android devices, supercomputers, home appliances, enterprise servers, and more.
 
