@@ -15,9 +15,9 @@ Note: Ubuntu Server can run on systems with only 512MB of RAM!
 Linux commands
 
 Commands	Description
-echo	- output any text that we provide
-whoami	- find out what user we're currently logged in as!
-ls	- listing
-cd	- change directory
-cat	- concatenate
-pwd	- print working directory
+echo	- output any text that we provide 
+whoami	- find out what user we're currently logged in as! 
+ls	- listing 
+cd	- change directory 
+cat	- concatenate 
+pwd	- print working directory 
