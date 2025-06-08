@@ -21,3 +21,7 @@ Linux commands
 - cd	- change directory 
 - cat	- concatenate 
 - pwd	- print working directory 
+- find	- searching for files
+- *	- to search/filtrate anything if we don’t know the name of the file.
+- grep	- search contents of files for specific values
+- wc	- word count
