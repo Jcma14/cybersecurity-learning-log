@@ -7,4 +7,3 @@ Key takeaways:
 ✅ How attackers exploit weak credentials and poor security habits
 
 It was an eye-opener on how simple actions can make a big difference in protecting personal and professional data.
-One step closer to becoming cybersecurity-aware and resilient!
